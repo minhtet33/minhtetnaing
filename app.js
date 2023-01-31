@@ -1,6 +1,6 @@
 
 // Ngày bắt đầu yêu nhau
-const yourDate = new Date("2022-3-3T00:00:00"),
+const yourDate = new Date("2022-10-30T00:00:00"),
 
 // Danh sách cái bài nhạc nền
 music = ['roitoilun'];
